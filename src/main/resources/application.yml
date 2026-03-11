@@ -38,6 +38,9 @@ sky:
     expiration: 7200000
     admin-ttl: 7200000
     user-ttl: 7200000
+  wechat:
+    appid: wxXXXXXXXXXXXXXXXX
+    secret: XXXXXXXXXXXXXXXXXXXXXXXXXX
   aliyun:
     endpoint: oss-cn-beijing.aliyuncs.com
     access-key-id: your-access-key-id
