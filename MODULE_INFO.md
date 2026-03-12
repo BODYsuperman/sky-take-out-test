@@ -1,0 +1,1 @@
+# Dish Management Module\n\nThis file identifies the Dish Management feature branch.\n\n## Module Details\n- **Function**: Dish management with flavors\n- **Components**: Controller, Service, Mapper, Entity\n- **Branch**: feature/dish-management-module\n- **Status**: Ready for merge
